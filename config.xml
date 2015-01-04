@@ -13,19 +13,11 @@
         A simple employee directory application
     </description>
 
-<<<<<<< HEAD
-    <author href="http://n3xtg3nov8ion.com" email="ccoenraets@gmail.com">
+    <author href="http://n3xtg3nov8ion.com" email="n3xtg3nov8ion@gmail.com">
         Billy Owens
     </author>
     
     <feature name="http://api.phonegap.com/1.0/camera"/>
-=======
-    <author href="http://n3xtg3nov8ion.com" email="n3xtgenov8ion@gmail.com">
-        Billy Owens
-    </author>
-    
-     <feature name="http://api.phonegap.com/1.0/camera"/>
->>>>>>> 9dc59bc0022eb778b5499ba2f79823939b3be122
     <feature name="http://api.phonegap.com/1.0/contacts"/>
     <feature name="http://api.phonegap.com/1.0/file"/>
     <feature name="http://api.phonegap.com/1.0/geolocation"/>
