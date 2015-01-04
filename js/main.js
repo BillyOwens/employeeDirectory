@@ -88,4 +88,8 @@ var app = {
 
 };
 
+<<<<<<< HEAD
 app.initialize();
+=======
+app.initialize();
+>>>>>>> 9dc59bc0022eb778b5499ba2f79823939b3be122

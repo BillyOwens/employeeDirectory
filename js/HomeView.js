@@ -22,4 +22,8 @@ var HomeView = function(store) {
 }
 
 HomeView.template = Handlebars.compile($("#home-tpl").html());
+<<<<<<< HEAD
 HomeView.liTemplate = Handlebars.compile($("#employee-li-tpl").html());
+=======
+HomeView.liTemplate = Handlebars.compile($("#employee-li-tpl").html());
+>>>>>>> 9dc59bc0022eb778b5499ba2f79823939b3be122

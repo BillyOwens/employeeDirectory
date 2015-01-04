@@ -71,4 +71,8 @@ var EmployeeView = function(employee) {
 
 }
 
+<<<<<<< HEAD
 EmployeeView.template = Handlebars.compile($("#employee-tpl").html());
+=======
+EmployeeView.template = Handlebars.compile($("#employee-tpl").html());
+>>>>>>> 9dc59bc0022eb778b5499ba2f79823939b3be122
